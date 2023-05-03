@@ -1,0 +1,8 @@
+{
+    "fetchUrl":"",
+    "fetchToken": "paste here",
+    "ipSpan": "",
+    "ipOutFilePath": "ips.txt",
+    "urlSpan": "",
+    "urlOutFilePath": "urls.txt"
+}
